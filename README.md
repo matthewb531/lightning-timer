@@ -1,3 +1,8 @@
+# Lightning Talk Timer
+
+Iterating over the original color-changer React app from [Cape Town Testing tooling repo](https://github.com/cape-town-testing/tooling/tree/master/color-changer) based on Feedback from [Let's Test 2019](lets-test.com).
+Fixes are listed and prioritized [here](./FIXES.md).
+
 ## Available Scripts
 
 In the project directory, you can run:
